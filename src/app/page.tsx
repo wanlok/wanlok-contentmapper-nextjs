@@ -1,9 +1,5 @@
 import styles from "./page.module.css";
 
-export default function Home() {
-  return (
-    <main>
-      Nice
-    </main>
-  );
+export default function () {
+  return <main>Nice</main>;
 }

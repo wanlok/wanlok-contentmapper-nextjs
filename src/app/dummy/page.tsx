@@ -1,5 +1,3 @@
-export default () => {
-  return (
-    <div>Hello World</div>
-  );
+export default function () {
+  return <div>Hello World</div>;
 }
