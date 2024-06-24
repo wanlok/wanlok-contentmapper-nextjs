@@ -1,0 +1,10 @@
+.a1 {
+  display: table;
+  width: 100%;
+  background-color: blue;
+}
+
+.a2 {
+  display: table-cell;
+  width: 50%;
+}
