@@ -1,3 +1,4 @@
+import CSVImport from "./CSVImport";
 import styles from "./page.module.css";
 
 export default function () {
@@ -5,7 +6,7 @@ export default function () {
     <div className={styles.a1}>
       <div className={styles.a2}>1</div>
       <div className={styles.a2}>
-        <div>Import</div>
+        <CSVImport />
         <div>Rows</div>
       </div>
     </div>
